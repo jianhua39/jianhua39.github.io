@@ -1,3 +1,7 @@
+.dark-theme{
+    background-color:#010101;
+    color: white;
+}
 hr {
     height: 1.5px;
     color: black;
@@ -7,4 +11,4 @@ hr {
 .r-corner {
     border-radius: 30px;
     border: 1px;
-  }
+}
